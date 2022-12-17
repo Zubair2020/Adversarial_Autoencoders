@@ -1,5 +1,4 @@
-# GANs
-Projects
+# Adversarial_Autoencoders
 
 Adversarial Autoencoders - Model Trained using MNIST data and generated training samples shown in MNIST Generated Images 
 
