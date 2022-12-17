@@ -3,6 +3,8 @@ Projects
 
 Adversarial Autoencoders - Model Trained using MNIST data and generated training samples shown in MNIST Generated Images 
 
+![github](https://github.com/Zubair2020/Adversarial_Autoencoders/blob/master/MNIST_images_generated/mnist.gif)
+
 
 1.This is a code snippet for an adversarial autoencoder in Python using the Keras API. An autoencoder is a neural network that is trained to reconstruct its input. An adversarial autoencoder is a type of autoencoder that is trained using a two-part loss function. 
 
