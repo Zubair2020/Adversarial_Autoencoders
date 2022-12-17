@@ -1,7 +1,7 @@
 # GANs
 Projects
 
-Projects 1 - Adversarial Autoencoders - Trained using MNIST data and generated training samples shown in MNIST Generated Images 
+Adversarial Autoencoders - Model Trained using MNIST data and generated training samples shown in MNIST Generated Images 
 
 
 1.This is a code snippet for an adversarial autoencoder in Python using the Keras API. An autoencoder is a neural network that is trained to reconstruct its input. An adversarial autoencoder is a type of autoencoder that is trained using a two-part loss function. 
