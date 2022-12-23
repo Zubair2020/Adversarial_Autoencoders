@@ -1,7 +1,7 @@
 # Adversarial Autoencoder
 Projects
 
-Adversarial Autoencoders - Model Trained using MNIST data and generated training samples shown in MNIST Generated Images 
+Adversarial Autoencoders - Model Trained using MNIST data and generated samples shown in MNIST Generated Images 
 
 ![github](https://github.com/Zubair2020/Adversarial_Autoencoders/blob/master/MNIST_images_generated/mnist.gif)
 
